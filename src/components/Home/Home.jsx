@@ -12,8 +12,8 @@ const Home = () => {
         </p>
         <div className="flex justify-start mt-12 text-sm  md:text-1xl">
       <a
-        href="/Resume(2).pdf"  
-        download="Resume(2).pdf"
+        href="/resume.pdf"  
+        download
         className="flex items-center px-5 py-3 bg-blue-500 text-white font-semibold rounded-full shadow-lg hover:bg-blue-600 hover:scale-105 transition-transform duration-300"
       >
         <FaDownload className="mr-2 " /> Download Resume
